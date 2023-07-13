@@ -63,6 +63,10 @@ h1{
         left: 50%;
         transform: translateX(-50%);
         top: 3rem;
+        
+        /* margin: auto;
+        left: 0;
+        right: 0; */
         cursor: pointer;
 }
 
